@@ -9,6 +9,7 @@
 
 ## 🚀 Dev Tool Launch Platforms
 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [DevHunt](https://devhunt.org) – Product Hunt alternative focused on developer tools. GitHub-authenticated voting.
 * [Hashnode](https://hashnode.com) – Developer-focused directory and launch channel. Freemium listing options.
 * [Dev.to](https://dev.to) – Developer-focused directory and launch channel. Free to submit.
@@ -69,7 +70,7 @@ Please only add platforms that are **free or freemium to submit**, actively main
 
 ## 🔗 Full directory
 
-This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 20 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
+This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 21 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
 
 ---
 
